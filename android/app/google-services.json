@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971992787434",
+    "project_id": "chatdatabase-f65be",
+    "storage_bucket": "chatdatabase-f65be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971992787434:android:5d9adf3e8a2950c303aa93",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NeBwHYVP4c83kv-KrKoqwznb0ahchxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
